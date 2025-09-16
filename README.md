@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Sharon Owusu 👋</h1>
+<h1 align="left">I'm Sharon Owusu</h1>
 
 <p align="left">
   CS @ Grambling State • SWE-in-training • I like clean, practical solutions.
